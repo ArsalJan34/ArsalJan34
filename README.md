@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Arsal Jan 👋  
 
-<!--
-**ArsalJan34/ArsalJan34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Web Developer & JavaScript Enthusiast 🚀  
 
-Here are some ideas to get you started:
+🔭 I’m currently working on **JavaScript-based Web Applications**  
+🌱 I’m currently learning **Advanced JavaScript & Backend Development**  
+👯 I’m looking to collaborate with **developers and open-source contributors**  
+💬 Ask me about **HTML, CSS, JavaScript & Firebase**  
+⚡ Fun fact: I love building **real-world projects** and learning by doing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,firebase,python,git,github" />
+</p>
+
+---
+
+### 📌 Featured Projects  
+
+- 🚗 **Animated Car Web** – CSS animations  
+- 🎓 **SkillMate-SU** – Web UI project  
+- 🌍 **Wanderly** – HTML-based website  
+- 🌦️ **Weather App (JS)** – JavaScript weather application  
+- 🧠 **Quiz App** – JavaScript logic-based project  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsalJan34&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArsalJan34&theme=onedark" />
+</p>
+
+---
+
+### 🤝 Connect with Me  
+
+- 💼 LinkedIn: [Arsal Chandio](https://www.linkedin.com/in/arsal-chandio-b2003a347)  
+- 🌐 GitHub: [github.com/ArsalJan34](https://github.com/ArsalJan34)  
+
+---
+
+> **"Code. Learn. Improve. Repeat."** 💻🔥  
+— *Arsal Jan*

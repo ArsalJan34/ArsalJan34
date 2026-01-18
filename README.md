@@ -42,7 +42,7 @@
 ### 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArsalJan34&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArsalJan34&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---

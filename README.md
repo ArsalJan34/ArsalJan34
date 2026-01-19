@@ -37,10 +37,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-### 📈 This Year on GitHub
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArsalJan34&theme=react-dark&area=true&hide_border=false" />
-</p>
 
 ---
 ### 🏆 GitHub Achievements

@@ -36,29 +36,28 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArsalJan34&show_icons=true&theme=tokyonight&cache_seconds=1800" /> </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsalJan34&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🔥 Contribution Streak & Yearly Commits  
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArsalJan34&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🏆 GitHub Achievements  
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArsalJan34&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://streak-stats.demolab.com?user=ArsalJan34&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArsalJan34&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
 ---

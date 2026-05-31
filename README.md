@@ -21,7 +21,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,firebase,python,git,github,mysql,numpy,tensorflow,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,firebase,python,c,git,github,mysql,numpy,aws" />
 </p>
 
 ---

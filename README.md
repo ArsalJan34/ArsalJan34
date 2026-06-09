@@ -1,51 +1,50 @@
-# Hi there, I'm Arsal Jan 👋  
+<div align="center">
 
-### 🚀 Web Developer & JavaScript Enthusiast  
+# Hi, I'm Arsal Jan 👋
 
-🔭 I’m currently working on **JavaScript-based Web Applications**  
-🌱 I’m currently learning **Advanced JavaScript & Backend Development**  
-👯 I’m looking to collaborate with **developers and open-source contributors**  
-💬 Ask me about **HTML, CSS, JavaScript & Firebase**  
-⚡ Fun fact: I love building **real-world projects** and learning by doing  
+**Web Developer · JavaScript Enthusiast · Lifelong Learner**
 
----
+*"Code. Learn. Improve. Repeat."*
 
-## 🚀 GitHub Profile Summary
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsal%20Chandio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsal-chandio-b2003a347)
+[![GitHub](https://img.shields.io/badge/GitHub-ArsalJan34-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArsalJan34)
+[![GitHub followers](https://img.shields.io/github/followers/ArsalJan34?style=flat-square&label=Followers&color=0A66C2)](https://github.com/ArsalJan34?tab=followers)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArsalJan34&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 🛠️ Languages & Tools  
+## About Me
+
+I'm a passionate **Web Developer** focused on building clean, real-world applications using modern JavaScript. I enjoy learning by doing — every project is a step toward mastery.
+
+- 🔭 Currently building **JavaScript-based Web Applications**
+- 🌱 Deepening expertise in **Advanced JavaScript & Backend Development**
+- 👯 Open to collaborating on **open-source projects and developer tools**
+- 💬 Ask me about **HTML, CSS, JavaScript & Firebase**
+- ⚡ I believe the best way to learn is by shipping real things
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,firebase,python,c,git,github,mysql,tensorflow,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,python,c,git,github,mysql,tensorflow,aws,vscode" />
 </p>
-
----
-
-## 📌 Featured Projects  
-
-- 🚗 **Animated Car Web** – CSS animations  
-- 🎓 **SkillMate-SU** – Web UI project  
-- 🌍 **Wanderly** – HTML-based website  
-- 🌦️ **Weather App (JS)** – JavaScript weather application  
-- 🧠 **Quiz App** – JavaScript logic-based project  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArsalJan34&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsalJan34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+---
 
 ## 🔥 Contribution Streak
 
@@ -53,31 +52,40 @@
   <img src="https://streak-stats.demolab.com?user=ArsalJan34&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArsalJan34&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArsalJan34&theme=onedark&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
 
-## 📈 GitHub Numbers  
+## 📈 Profile Activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ArsalJan34?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/ArsalJan34?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/repos/ArsalJan34?style=for-the-badge&color=green" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArsalJan34&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect with Me  
+## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Arsal Chandio](https://www.linkedin.com/in/arsal-chandio-b2003a347)  
-- 🌐 GitHub: [github.com/ArsalJan34](https://github.com/ArsalJan34)  
+I'm always open to interesting conversations, collaborations, and new opportunities.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arsal-chandio-b2003a347">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ArsalJan34">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> **"Code. Learn. Improve. Repeat."** 💻🔥  
-— *Arsal Jan*
+<div align="center">
+  <sub>Thanks for stopping by. Let's build something great together. 🚀</sub>
+</div>

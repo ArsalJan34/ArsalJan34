@@ -2,7 +2,7 @@
 
 # Hi, I'm Arsal Jan 👋
 
-**Web Developer · JavaScript Enthusiast · Lifelong Learner**
+**Web Developer · JavaScript Enthusiast · AI & ML Explorer**
 
 *"Code. Learn. Improve. Repeat."*
 
@@ -19,7 +19,8 @@
 I'm a passionate **Web Developer** focused on building clean, real-world applications using modern JavaScript. I enjoy learning by doing — every project is a step toward mastery.
 
 - 🔭 Currently building **JavaScript-based Web Applications**
-- 🌱 Deepening expertise in **Advanced JavaScript & Backend Development**
+- 🤖 Exploring **AI & Machine Learning** — Python, PyTorch, RAG, NumPy, Pandas & FastAPI
+- 🌱 Deepening expertise in **Advanced JavaScript, Backend Development & AI Engineering**
 - 👯 Open to collaborating on **open-source projects and developer tools**
 - 💬 Ask me about **HTML, CSS, JavaScript & Firebase**
 - ⚡ I believe the best way to learn is by shipping real things
@@ -28,9 +29,17 @@ I'm a passionate **Web Developer** focused on building clean, real-world applica
 
 ## 🛠️ Tech Stack
 
+**Current Stack**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,python,c,git,github,mysql,tensorflow,aws,vscode" />
 </p>
+
+**Currently Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,numpy" />
+</p>
+
+> 🧠 Also diving into **Pandas · NumPy · RAG (Retrieval-Augmented Generation) · Machine Learning · AI Engineering**
 
 ---
 

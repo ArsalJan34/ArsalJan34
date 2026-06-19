@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a passionate **Web Developer** focused on building clean, real-world applications using modern JavaScript. I enjoy learning by doing — every project is a step toward mastery.
+I'm a passionate **Web Developer** focused on building clean, real-world applications using modern JavaScript. I enjoy learning by doing every project is a step toward mastery.
 
 - 🔭 Currently building **JavaScript-based Web Applications**
 - 🤖 Exploring **AI & Machine Learning** — Python, PyTorch, RAG, NumPy, Pandas & FastAPI

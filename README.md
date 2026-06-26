@@ -19,7 +19,7 @@
 I'm a passionate **Web Developer** focused on building clean, real-world applications using modern JavaScript. I enjoy learning by doing every project is a step toward mastery.
 
 - 🔭 Currently building **JavaScript-based Web Applications**
-- 🤖 Exploring **AI & Machine Learning** — Python, PyTorch, RAG, NumPy, Pandas & FastAPI
+- 🤖 Exploring **AI & Machine Learning** Python, PyTorch, RAG, NumPy, Pandas & FastAPI
 - 🌱 Deepening expertise in **Advanced JavaScript, Backend Development & AI Engineering**
 - 👯 Open to collaborating on **open-source projects and developer tools**
 - 💬 Ask me about **HTML, CSS, JavaScript & Firebase**

@@ -2,9 +2,7 @@
 
 # Hi, I'm Arsal Jan 👋
 
-**Web Developer · JavaScript Enthusiast · AI & ML Explorer**
 
-*"Code. Learn. Improve. Repeat."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsal%20Chandio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsal-chandio-b2003a347)
 [![GitHub](https://img.shields.io/badge/GitHub-ArsalJan34-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArsalJan34)
@@ -14,18 +12,6 @@
 
 ---
 
-## About Me
-
-I'm a passionate **Web Developer** focused on building clean, real-world applications using modern JavaScript. I enjoy learning by doing every project is a step toward mastery.
-
-- 🔭 Currently building **JavaScript-based Web Applications**
-- 🤖 Exploring **AI & Machine Learning** Python, PyTorch, RAG, NumPy, Pandas & FastAPI
-- 🌱 Deepening expertise in **Advanced JavaScript, Backend Development & AI Engineering**
-- 👯 Open to collaborating on **open-source projects and developer tools**
-- 💬 Ask me about **HTML, CSS, JavaScript & Firebase**
-- ⚡ I believe the best way to learn is by shipping real things
-
----
 
 ## 🛠️ Tech Stack
 
@@ -34,14 +20,7 @@ I'm a passionate **Web Developer** focused on building clean, real-world applica
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,python,c,git,github,mysql,tensorflow,aws,vscode" />
 </p>
 
-**Currently Learning**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,numpy" />
-</p>
 
-> 🧠 Also diving into **Pandas · NumPy · RAG (Retrieval-Augmented Generation) · Machine Learning · AI Engineering**
-
----
 
 ## 📊 GitHub Stats
 

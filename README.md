@@ -26,7 +26,7 @@
 
 ## Profile Overview
 
-I design and build software end-to-end — from interfaces to the models running behind them. My current focus is full-stack web development paired with practical machine learning, and I enjoy the process of taking a rough idea all the way to a shipped product.
+I design and build software end-to-end  from interfaces to the models running behind them. My current focus is full-stack web development paired with practical machine learning, and I enjoy the process of taking a rough idea all the way to a shipped product.
 
 <br>
 
@@ -74,11 +74,6 @@ I design and build software end-to-end — from interfaces to the models running
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">
 
-## Featured Work
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=34D399&center=true&vCenter=true&width=560&lines=Projects+worth+a+closer+look." />
-</p>
 
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">

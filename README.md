@@ -80,50 +80,6 @@ I design and build software end-to-end — from interfaces to the models running
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=34D399&center=true&vCenter=true&width=560&lines=Projects+worth+a+closer+look." />
 </p>
 
-<table width="100%">
-
-<tr>
-<th align="left" width="30%">Project</th>
-<th align="left" width="45%">Description</th>
-<th align="center" width="25%">Stack</th>
-</tr>
-
-<tr><td colspan="3"><hr></td></tr>
-
-<tr>
-<td><b>Project One</b></td>
-<td>Short description of what it does and the problem it solves.</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,nodejs" height="26"/></td>
-</tr>
-<tr><td colspan="3" align="right">
-  <a href="https://github.com/ArsalJan34"><img src="https://img.shields.io/badge/Repository-→-10B981?style=flat-square&labelColor=0F2E23"/></a>
-</td></tr>
-
-<tr><td colspan="3"><hr></td></tr>
-
-<tr>
-<td><b>Project Two</b></td>
-<td>Short description of what it does and the problem it solves.</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python,tensorflow" height="26"/></td>
-</tr>
-<tr><td colspan="3" align="right">
-  <a href="https://github.com/ArsalJan34"><img src="https://img.shields.io/badge/Repository-→-10B981?style=flat-square&labelColor=0F2E23"/></a>
-</td></tr>
-
-<tr><td colspan="3"><hr></td></tr>
-
-<tr>
-<td><b>Project Three</b></td>
-<td>Short description of what it does and the problem it solves.</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql,firebase" height="26"/></td>
-</tr>
-<tr><td colspan="3" align="right">
-  <a href="https://github.com/ArsalJan34"><img src="https://img.shields.io/badge/Repository-→-10B981?style=flat-square&labelColor=0F2E23"/></a>
-</td></tr>
-
-</table>
-
-<sub>Swap these three rows with your real repositories — name, one-line description, and the actual tech icons used.</sub>
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">
 

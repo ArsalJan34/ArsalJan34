@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Machine+Learning+%26+AI+Enthusiast;React+%7C+Node.js+%7C+Python+%7C+TensorFlow;Turning+Ideas+Into+Working+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=850&lines=Frontend+Developer;Machine+Learning+%26+AI+Enthusiast;React+%7C+Node.js+%7C+Python;Turning+Ideas+Into+Working+Software" />
 </p>
 
 <p align="center">

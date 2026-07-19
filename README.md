@@ -48,34 +48,6 @@ I design and build software end-to-end  from interfaces to the models running be
 ![VS Code](https://img.shields.io/badge/-VS%20Code-064E3B?style=for-the-badge&logo=visual-studio-code&logoColor=34D399)
 
 <br>
-
-## Currently Exploring
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Building**
-- Deepening full-stack projects with React and Node.js
-- Applying TensorFlow to real, hands-on ML problems
-- Designing MySQL and Firebase-backed data layers
-
-</td>
-<td width="50%" valign="top">
-
-**Sharpening**
-- Cloud deployment fundamentals on AWS
-- Clean architecture and scalable backend design
-- Data structures and algorithmic problem-solving
-
-</td>
-</tr>
-</table>
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">
-
-
-
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">
 
 ## GitHub Statistics

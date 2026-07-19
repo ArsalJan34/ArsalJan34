@@ -10,13 +10,6 @@
 
 </div>
 
-<br>
-
-## About Me
-
-I build things with code — from web applications to machine learning models. Currently focused on sharpening my full-stack and ML skills while contributing to open source projects. Always up for a good technical conversation or a new collaboration.
-
-<br>
 
 ## Tech Stack
 

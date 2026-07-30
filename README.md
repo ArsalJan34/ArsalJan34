@@ -18,8 +18,6 @@
   <a href="https://github.com/ArsalJan34">
     <img src="https://img.shields.io/badge/GitHub-ArsalJan34-0F2E23?style=for-the-badge&logo=github&logoColor=00E5A0" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ArsalJan34?style=for-the-badge&label=Followers&color=10B981&logo=github&logoColor=white" />
 </p>
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">

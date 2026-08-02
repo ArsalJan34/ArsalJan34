@@ -44,7 +44,7 @@ I design and build software end-to-end  from interfaces to the models running be
 ![Git](https://img.shields.io/badge/-Git-064E3B?style=for-the-badge&logo=git&logoColor=34D399)
 ![GitHub](https://img.shields.io/badge/-GitHub-064E3B?style=for-the-badge&logo=github&logoColor=34D399)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-064E3B?style=for-the-badge&logo=visual-studio-code&logoColor=34D399)
-![Pandas](https://img.shields.io/badge/-VS%20Code-064E3B?style=for-the-badge&logo=pandas-code&logoColor=34D399)
+![Pandas](https://img.shields.io/badge/-Pandas-064E3B?style=for-the-badge&logo=pandas-code&logoColor=34D399)
 
 <br>
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">

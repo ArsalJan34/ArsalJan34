@@ -49,6 +49,7 @@ I design and build software end-to-end  from interfaces to the models running be
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-064E3B?style=for-the-badge&logo=Matplotlib&logoColor=34D399)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-064E3B?style=for-the-badge&logo=PyTorch&logoColor=34D399)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-064E3B?style=for-the-badge&logo=Seaborn&logoColor=34D399)
+![NeuralNetwork](https://img.shields.io/badge/-NeuralNetwork-064E3B?style=for-the-badge&logo=NeuralNetwork&logoColor=34D399)
 
 <br>
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">

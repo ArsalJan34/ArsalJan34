@@ -47,6 +47,7 @@ I design and build software end-to-end  from interfaces to the models running be
 ![Pandas](https://img.shields.io/badge/-Pandas-064E3B?style=for-the-badge&logo=pandas&logoColor=34D399)
 ![NumPy](https://img.shields.io/badge/-NumPy-064E3B?style=for-the-badge&logo=Numpy&logoColor=34D399)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-064E3B?style=for-the-badge&logo=Matplotlib&logoColor=34D399)
+![PyTorch](https://img.shields.io/badge/-PyTorch-064E3B?style=for-the-badge&logo=PyTorch&logoColor=34D399)
 
 <br>
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">

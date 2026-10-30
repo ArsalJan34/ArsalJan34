@@ -17,42 +17,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:22D3EE,100:0B1020" width="70%" />
 </p>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## ✦ About
 
-```python
-class Arsal:
-    role     = "Frontend Developer · ML Enthusiast"
-    building = ["clean React interfaces", "practical ML projects"]
-    learning = ["deeper PyTorch", "system design", "cloud deployment"]
-    values   = ["clarity", "consistency", "shipping over perfecting"]
-
-    def mission(self):
-        return "Turn ideas into software that actually works."
-```
-
-<br>
-
-## ✦ Focus Areas
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎨 Frontend</h3>
-      <sub>Responsive, accessible, fast interfaces with React and modern CSS.</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Backend</h3>
-      <sub>APIs and services with Node.js, Python and relational / cloud databases.</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧠 Machine Learning</h3>
-      <sub>Neural networks and data analysis with PyTorch, TensorFlow and Pandas.</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 ## ✦ Tech Stack
 
@@ -80,71 +45,7 @@ class Arsal:
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:4F46E5,100:0B1020" width="70%" />
 </p>
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-## ✦ Featured Projects
 
-> 🔧 Replace the placeholders below with your real repositories.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 Project One</h3>
-      <p>One sentence on what it does and why it matters.</p>
-      <img src="https://img.shields.io/badge/React-0B1020?style=flat-square&logo=react&logoColor=22D3EE" />
-      <img src="https://img.shields.io/badge/Node.js-0B1020?style=flat-square&logo=node.js&logoColor=22D3EE" /><br><br>
-      <a href="https://github.com/ArsalJan34/REPO-NAME">Code</a> · <a href="#">Live demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 Project Two</h3>
-      <p>One sentence on what it does and why it matters.</p>
-      <img src="https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=22D3EE" />
-      <img src="https://img.shields.io/badge/PyTorch-0B1020?style=flat-square&logo=pytorch&logoColor=22D3EE" /><br><br>
-      <a href="https://github.com/ArsalJan34/REPO-NAME">Code</a> · <a href="#">Live demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 Project Three</h3>
-      <p>One sentence on what it does and why it matters.</p>
-      <img src="https://img.shields.io/badge/Firebase-0B1020?style=flat-square&logo=firebase&logoColor=22D3EE" />
-      <img src="https://img.shields.io/badge/JavaScript-0B1020?style=flat-square&logo=javascript&logoColor=22D3EE" /><br><br>
-      <a href="https://github.com/ArsalJan34/REPO-NAME">Code</a> · <a href="#">Live demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 Project Four</h3>
-      <p>One sentence on what it does and why it matters.</p>
-      <img src="https://img.shields.io/badge/TensorFlow-0B1020?style=flat-square&logo=tensorflow&logoColor=22D3EE" />
-      <img src="https://img.shields.io/badge/Pandas-0B1020?style=flat-square&logo=pandas&logoColor=22D3EE" /><br><br>
-      <a href="https://github.com/ArsalJan34/REPO-NAME">Code</a> · <a href="#">Notebook</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:22D3EE,100:0B1020" width="70%" />
-</p>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-## ✦ GitHub Pulse
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArsalJan34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B1020&title_color=22D3EE&icon_color=818CF8&text_color=E2E8F0&ring_color=22D3EE" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=donut-vertical&hide_border=true&langs_count=6&bg_color=0B1020&title_color=22D3EE&text_color=E2E8F0" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArsalJan34&hide_border=true&background=0B1020&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E2E8F0&dates=94A3B8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArsalJan34&theme=react-dark&hide_border=true&bg_color=0B1020&color=22D3EE&line=4F46E5&point=FFFFFF&area=true&area_color=4F46E5" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:4F46E5,100:0B1020" width="70%" />
-</p>
-
-<!-- ═══════════════ CONTACT ═══════════════ -->
 ## ✦ Let's Connect
 
 <p align="center">

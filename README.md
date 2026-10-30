@@ -7,71 +7,58 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:064E3B,100:10B981&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,100:10B981&height=3" width="85%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arsal-chandio-b2003a347">
     <img src="https://img.shields.io/badge/LinkedIn-Arsal%20Chandio-064E3B?style=for-the-badge&logo=linkedin&logoColor=00E5A0" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/ArsalJan34">
     <img src="https://img.shields.io/badge/GitHub-ArsalJan34-0F2E23?style=for-the-badge&logo=github&logoColor=00E5A0" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-064E3B?style=for-the-badge&logo=gmail&logoColor=00E5A0" />
   </a>
 </p>
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">
 
-## Profile Overview
+## 🚀 Profile Overview
 
-I design and build software end-to-end  from interfaces to the models running behind them. My current focus is full-stack web development paired with practical machine learning, and I enjoy the process of taking a rough idea all the way to a shipped product.
+I design and build software end-to-end — from intuitive user interfaces to the deep machine learning models running behind them. My core focus centers on crafting responsive web applications paired with practical AI/ML solutions, taking concepts seamlessly from code to production.
 
 <br>
 
-## Core Technologies
+## 🛠️ Core Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-064E3B?style=for-the-badge&logo=html5&logoColor=34D399)
-![CSS3](https://img.shields.io/badge/-CSS3-064E3B?style=for-the-badge&logo=css3&logoColor=34D399)
-![JavaScript](https://img.shields.io/badge/-JavaScript-064E3B?style=for-the-badge&logo=javascript&logoColor=34D399)
-![C](https://img.shields.io/badge/-C-064E3B?style=for-the-badge&logo=c&logoColor=34D399)
-![Python](https://img.shields.io/badge/-Python-064E3B?style=for-the-badge&logo=python&logoColor=34D399)
-![React](https://img.shields.io/badge/-React-064E3B?style=for-the-badge&logo=react&logoColor=34D399)
-![Node.js](https://img.shields.io/badge/-Node.js-064E3B?style=for-the-badge&logo=node.js&logoColor=34D399)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-064E3B?style=for-the-badge&logo=tensorflow&logoColor=34D399)
-![MySQL](https://img.shields.io/badge/-MySQL-064E3B?style=for-the-badge&logo=mysql&logoColor=34D399)
-![Firebase](https://img.shields.io/badge/-Firebase-064E3B?style=for-the-badge&logo=firebase&logoColor=34D399)
-![AWS](https://img.shields.io/badge/-AWS-064E3B?style=for-the-badge&logo=amazon-aws&logoColor=34D399)
-![Git](https://img.shields.io/badge/-Git-064E3B?style=for-the-badge&logo=git&logoColor=34D399)
-![GitHub](https://img.shields.io/badge/-GitHub-064E3B?style=for-the-badge&logo=github&logoColor=34D399)
-![VS Code](https://img.shields.io/badge/-VS%20Code-064E3B?style=for-the-badge&logo=visual-studio-code&logoColor=34D399)
-![Pandas](https://img.shields.io/badge/-Pandas-064E3B?style=for-the-badge&logo=pandas&logoColor=34D399)
-![NumPy](https://img.shields.io/badge/-NumPy-064E3B?style=for-the-badge&logo=Numpy&logoColor=34D399)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-064E3B?style=for-the-badge&logo=Matplotlib&logoColor=34D399)
-![PyTorch](https://img.shields.io/badge/-PyTorch-064E3B?style=for-the-badge&logo=PyTorch&logoColor=34D399)
-![Seaborn](https://img.shields.io/badge/-Seaborn-064E3B?style=for-the-badge&logo=Seaborn&logoColor=34D399)
-![NeuralNetwork](https://img.shields.io/badge/-NeuralNetwork-064E3B?style=for-the-badge&logo=NeuralNetwork&logoColor=34D399)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,python,react,nodejs,tensorflow,mysql,firebase,aws,git,github,vscode,pandas,numpy,pytorch,docker,linux,vite" alt="Tech Stack Icons" />
+</p>
 
 <br>
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArsalJan34&show_icons=true&theme=github-dark&hide_border=true&include_all_commits=true&count_private=true&title_color=34D399&icon_color=10B981&text_color=C9F5E5&bg_color=0B1F17" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=compact&theme=github-dark&hide_border=true&langs_count=8&title_color=34D399&text_color=C9F5E5&bg_color=0B1F17" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsalJan34&show_icons=true&theme=github-dark&hide_border=true&include_all_commits=true&count_private=true&title_color=34D399&icon_color=10B981&text_color=C9F5E5&bg_color=0B1F17" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalJan34&layout=compact&theme=github-dark&hide_border=true&langs_count=8&title_color=34D399&text_color=C9F5E5&bg_color=0B1F17" height="165"/>
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ArsalJan34&theme=highcontrast&hide_border=true&background=0B1F17&ring=10B981&fire=34D399&currStreakLabel=34D399" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://streak-stats.demolab.com?user=ArsalJan34&theme=highcontrast&hide_border=true&background=0B1F17&ring=10B981&fire=34D399&currStreakLabel=34D399" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArsalJan34&theme=github-compact&hide_border=true&bg_color=0B1F17&color=34D399&line=10B981&point=C9F5E5&area=true" width="100%" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArsalJan34&theme=github-compact&hide_border=true&bg_color=0B1F17&color=34D399&line=10B981&point=C9F5E5&area=true" width="100%" />
 </div>
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px">
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arsal-chandio-b2003a347" target="_blank">
